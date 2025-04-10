@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\halit\\desktop\\kurslar\\c#\\app\\personel_kayit\\personel_kayit\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\personel_kayit\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\personel_kayit\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\personel_kayit\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\personel_kayit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\personel_kayit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8A10A45-0D11-4A72-A665-7730AB7D2A7E}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form4.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Form4.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form4.cs",
+              "RelativeToolTip": "Personel_Kayit\\Form4.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:42:04.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form4.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Form4.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form4.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:34:58.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form3.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Form3.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form3.cs",
+              "RelativeToolTip": "Personel_Kayit\\Form3.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:10:04.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form3.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Form3.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form3.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:05:21.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form2.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Form2.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form2.cs",
+              "RelativeToolTip": "Personel_Kayit\\Form2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBMAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:25:40.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form2.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Form2.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form2.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:20:14.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form1.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Form1.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form1.cs",
+              "RelativeToolTip": "Personel_Kayit\\Form1.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAtwJMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:24:44.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form1.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\Form1.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\App\\Personel_Kayit\\Personel_Kayit\\Form1.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:55:11.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
